@@ -1,0 +1,1 @@
+from .main import {{cookiecutter.lib_name}}
